@@ -1,0 +1,31 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "ABOUDOULAI OLOHUM TOYIN OSSENI",
+      "company": "Abdoul PUB",
+      "email": "osseniaboudoulai9603@gmail.com",
+      "phone": "0196037557",
+      "meta_ad_account_id": "act_328043571089178",
+      "tiktok_advertiser_id": null,
+      "created_at": "2026-07-01T12:34:08.014Z"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": 1,
+      "client_id": 1,
+      "name": "Test Campagne 1",
+      "objective": "traffic",
+      "budget_amount": null,
+      "budget_type": "daily",
+      "platforms": "[\"meta\",\"tiktok\"]",
+      "status": "active",
+      "start_date": null,
+      "end_date": null,
+      "meta_campaign_id": null,
+      "tiktok_campaign_id": null,
+      "created_at": "2026-07-01T12:36:55.476Z"
+    }
+  ]
+}
