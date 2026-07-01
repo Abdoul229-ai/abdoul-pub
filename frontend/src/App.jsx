@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-const API = "http://localhost:4000/api";
+const API = "https://abdoul-pub-production.up.railway.app/api";
 
 export default function App() {
   const [tab, setTab] = useState("campaigns");
